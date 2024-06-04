@@ -5,7 +5,7 @@
 안녕하세요 저는 이상훈입니다 😁</br>
 방문해주셔서 감사합니다!
 
-📮 isanghoony@gmail.com
+<a href="mailto:isanghoony@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanghoony&show_icons=true&theme=gruvbox)
 
