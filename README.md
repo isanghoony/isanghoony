@@ -8,3 +8,5 @@
 📮 isanghoony@gmail.com
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanghoony&show_icons=true&theme=gruvbox)
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlso92)](https://solved.ac/dlso92/)
