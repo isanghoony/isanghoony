@@ -6,7 +6,7 @@
 방문해주셔서 감사합니다!
 
 <a href="mailto:isanghoony@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://hun-developer.tistory.com"><img alt="Tistory" src ="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="www.linkedin.com/in/상훈-이-06102230b"><img alt="Tistory" src ="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://hun-developer.tistory.com"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white"/></a>
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlso92)](https://solved.ac/dlso92/)
