@@ -1,6 +1,6 @@
 ## Hoony's Github  
 
-안녕하세요 저는 이상훈입니다 😁</br>
+안녕하세요 저는 안드로이드 개발자 이상훈입니다 😁</br>
 방문해주셔서 감사합니다!
 
 <a href="mailto:isanghoony@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
