@@ -6,7 +6,13 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlso92)](https://solved.ac/dlso92/)
 
-<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/{isanghoony}"/></a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=isanghoony&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/isanghoony"
+  width="600"
+  height="300"
+/>
+</a>
 
 <a href="mailto:isanghoony@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/isanghoony"><img alt="Tistory" src ="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white"/></a>
